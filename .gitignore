@@ -1,0 +1,5 @@
+Delivery Driver/Library/*
+Delivery Driver/Logs/*
+Delivery Driver/Temp/*
+.vsconfig
+*.sln

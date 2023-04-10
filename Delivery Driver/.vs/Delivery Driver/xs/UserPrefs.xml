@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{0FE6AA30-410A-72AD-C5BE-02A52F540AF4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Delivery.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Delivery.cs" Line="30" Column="1" />
+      <File FileName="Assets/Scripts/Driver.cs" Line="12" Column="35" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Delivery Driver" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Delivery.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="415661ba-1a55-4a95-bf33-dba19056c0c6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
